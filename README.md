@@ -1,6 +1,6 @@
 # SportsShoes - E-commerce Shoe Store
 
-The website is hosted via Netlify, below you can find the url
+The website is hosted via Netlify. You can access the website via this link
 https://sportsshoes.netlify.app/
 
 Welcome to **SportsShoes**, an intuitive, lightweight, and fully-functional e-commerce application designed for browsing and purchasing shoes. This front-end only project is powered by **React** and utilizes **localStorage** for managing the shoe items, enabling users to add, edit, delete, and view products dynamically without the need for a backend server.
