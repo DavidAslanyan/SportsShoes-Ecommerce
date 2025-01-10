@@ -63,16 +63,6 @@ Welcome to **SportsShoes**, an intuitive, lightweight, and fully-functional e-co
   - `App.js`: The main component that renders the entire application.
   - `localStorage.js`: Utility functions to manage shoe data in local storage.
 
-## Contributing
-
-We welcome contributions to **SportsShoes**! If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request. Here's how you can contribute:
-
-1. Fork the repo.
-2. Create your feature branch: `git checkout -b feature/your-feature`.
-3. Commit your changes: `git commit -am 'Add new feature'`.
-4. Push to the branch: `git push origin feature/your-feature`.
-5. Create a new Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
